@@ -1,0 +1,11 @@
+Model Information:
+* title:	Easel cartoon
+* source:	https://sketchfab.com/3d-models/easel-cartoon-79e70a8ec7c54904a411eadfccefe775
+* author:	emelyarules (https://sketchfab.com/emelyarules)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Easel cartoon" (https://sketchfab.com/3d-models/easel-cartoon-79e70a8ec7c54904a411eadfccefe775) by emelyarules (https://sketchfab.com/emelyarules) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

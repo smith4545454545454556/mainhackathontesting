@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Permanent+Marker&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Wet+Paint&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: Montserrat;
+}
+body,
+html {
+    margin: 0;
+    padding: 0;
+}
+@layer utilities {
+    .mask-clip-path {
+        clip-path: polygon(100% 0 0, 100% 0, 100% 100%, 100% 100%);
+    }
+    .about-image {
+        @apply absolute left-1/2 top-0 -z-20 h-[60vh] w-96 origin-center -translate-x-1/2 overflow-hidden rounded-3xl md:w-[30vw];
+    }
+}
+.custom-shape-divider-bottom-1733907512 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: visible;
+    z-index: -10;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1733907512 svg {
+    position: relative;
+    display: block;
+    width: calc(129% + 1.3px);
+    height: 133px;
+}
+
+.custom-shape-divider-bottom-1733907512 .shape-fill {
+    fill: #ffffff;
+}
